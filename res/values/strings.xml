@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dagger</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- 数据库和文件路径 -->
+    <string name="dir">/dagger</string>
+    <string name="app_dir">/app</string>
+    <string name="db_dir">/database</string>
+
+</resources>
